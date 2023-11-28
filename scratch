@@ -1,0 +1,15 @@
+# Get input for x, y, and z
+
+x = float(input()) #2.4
+
+y = float(input()) #3.1
+
+z = float(input()) #1.9
+
+# Calculate the sum
+
+suma = x + y + z
+
+# Print the result
+
+print(suma)
